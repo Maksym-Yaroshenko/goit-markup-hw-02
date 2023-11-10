@@ -158,6 +158,9 @@ font-family: 'Roboto', sans-serif; */
     letter-spacing: 0.02em;
 }
 
+.list-item {
+    background-color: #FFFFFF;
+}
 
 
 /* Section-4 */
